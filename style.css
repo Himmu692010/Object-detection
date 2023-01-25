@@ -1,0 +1,23 @@
+body{
+     background-image: linear-gradient(to left top, #39f038, #c2c700, #ff9200, #ff564c, #ff3490, #ee4dbd, #cd68e3, #9c81ff, #5b90fb, #0497e9, #0099cf, #3097b3);
+}
+h1{
+     color: #110e1b;
+     text-shadow: 5px 5px 5px rgb(30, 41, 200);
+     font-family: 'Dancing Script', cursive;
+     font-family: 'Shadows Into Light', cursive;
+     font-size: 45px;
+     margin-bottom: px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+     border-radius: 15px;
+     box-shadow: 20px 20px 20px 10px rgb(244, 102, 208);
+     border: #000000;
+}
+
